@@ -2,7 +2,7 @@
 - 👀 I’m interested in drawing, music , basketball
 - 🌱 I’m currently learning python , piano, music, drawing , basketball
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...:) via email--hellooo
+- 📫 How to reach me ...:) via email--hellooo, hi there :)
 
 <!---
 Advaith9/Advaith9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
